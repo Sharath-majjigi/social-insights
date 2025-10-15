@@ -52,10 +52,11 @@
             "vite": "6.3.5",
             "xlsx": "^0.18.5"
       },
-      "scripts": {
-          "dev": "vite",
-          "build": "vite build",
-          "process-data": "node src/data/processLinkedInData.js",
-          "process-enhanced": "node src/data/enhancedLinkedInProcessor.js"
-      }
+     "scripts": {
+         "dev": "vite",
+         "build": "vite build",
+         "preview": "vite preview",
+         "process-data": "node src/data/processLinkedInData.js",
+         "process-enhanced": "node src/data/enhancedLinkedInProcessor.js"
+     }
 }
