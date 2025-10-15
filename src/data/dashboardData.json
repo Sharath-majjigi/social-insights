@@ -1,0 +1,687 @@
+{
+  "overallSection": {
+    "headerData": {
+      "totalReviews": "251",
+      "description": "Total LinkedIn Posts This Month"
+    },
+    "sentimentData": [
+      {
+        "name": "neutral",
+        "value": 43,
+        "color": "#0891b2"
+      },
+      {
+        "name": "negative",
+        "value": 23,
+        "color": "#dc2626"
+      },
+      {
+        "name": "positive",
+        "value": 34,
+        "color": "#16a34a"
+      }
+    ],
+    "trendData": [
+      {
+        "day": "14",
+        "positive": 0,
+        "negative": 2,
+        "queries": 0
+      },
+      {
+        "day": "16",
+        "positive": 2,
+        "negative": 2,
+        "queries": 5
+      },
+      {
+        "day": "19",
+        "positive": 5,
+        "negative": 0,
+        "queries": 18
+      },
+      {
+        "day": "03",
+        "positive": 1,
+        "negative": 0,
+        "queries": 13
+      },
+      {
+        "day": "07",
+        "positive": 1,
+        "negative": 0,
+        "queries": 0
+      },
+      {
+        "day": "13",
+        "positive": 0,
+        "negative": 0,
+        "queries": 0
+      },
+      {
+        "day": "16",
+        "positive": 4,
+        "negative": 8,
+        "queries": 15
+      }
+    ],
+    "metricCards": [
+      {
+        "title": "Avg Engagement",
+        "value": "82",
+        "bgColor": "bg-secondary/30",
+        "textColor": "text-foreground",
+        "description": "Avg Engagement"
+      },
+      {
+        "title": "Positive",
+        "value": "34%",
+        "bgColor": "bg-green-50",
+        "textColor": "text-green-600",
+        "description": "Positive",
+        "subValue": "86 posts",
+        "subTextColor": "text-green-600"
+      },
+      {
+        "title": "Negative",
+        "value": "23%",
+        "bgColor": "bg-red-50",
+        "textColor": "text-red-600",
+        "description": "Negative",
+        "subValue": "58 posts",
+        "subTextColor": "text-red-600"
+      },
+      {
+        "title": "Neutral",
+        "value": "43%",
+        "bgColor": "bg-blue-50",
+        "textColor": "text-blue-600",
+        "description": "Neutral",
+        "subValue": "107 posts",
+        "subTextColor": "text-blue-600"
+      }
+    ],
+    "keyInsights": [
+      {
+        "type": "positive",
+        "text": "Shoffr experience posts show strong satisfaction - 52% of posts express positive experiences",
+        "percentage": 52
+      },
+      {
+        "type": "growth",
+        "text": "22% of Shoffr experience posts achieve exceptional engagement (>100), indicating strong brand resonance",
+        "percentage": 22
+      }
+    ]
+  },
+  "overviewSection": {
+    "positiveData": [
+      {
+        "value": 0
+      },
+      {
+        "value": 2
+      },
+      {
+        "value": 5
+      },
+      {
+        "value": 1
+      },
+      {
+        "value": 1
+      },
+      {
+        "value": 0
+      },
+      {
+        "value": 4
+      }
+    ],
+    "negativeData": [
+      {
+        "value": 2
+      },
+      {
+        "value": 2
+      },
+      {
+        "value": 0
+      },
+      {
+        "value": 0
+      },
+      {
+        "value": 0
+      },
+      {
+        "value": 0
+      },
+      {
+        "value": 8
+      }
+    ],
+    "queriesData": [
+      {
+        "value": 0
+      },
+      {
+        "value": 5
+      },
+      {
+        "value": 18
+      },
+      {
+        "value": 13
+      },
+      {
+        "value": 0
+      },
+      {
+        "value": 0
+      },
+      {
+        "value": 15
+      }
+    ]
+  },
+  "positiveReviewsSection": {
+    "positiveKeywords": [
+      {
+        "word": "Premium",
+        "count": 104,
+        "color": "bg-green-100 text-green-800"
+      },
+      {
+        "word": "About",
+        "count": 91,
+        "color": "bg-blue-100 text-blue-800"
+      },
+      {
+        "word": "Fleet",
+        "count": 78,
+        "color": "bg-purple-100 text-purple-800"
+      },
+      {
+        "word": "Drivers",
+        "count": 68,
+        "color": "bg-emerald-100 text-emerald-800"
+      },
+      {
+        "word": "Market",
+        "count": 54,
+        "color": "bg-cyan-100 text-cyan-800"
+      },
+      {
+        "word": "While",
+        "count": 51,
+        "color": "bg-indigo-100 text-indigo-800"
+      },
+      {
+        "word": "Customers",
+        "count": 49,
+        "color": "bg-teal-100 text-teal-800"
+      },
+      {
+        "word": "Hailing",
+        "count": 49,
+        "color": "bg-lime-100 text-lime-800"
+      }
+    ],
+    "recentPraises": [
+      {
+        "praise": "Tried Shoffr recently. I used to take BluSmart, but ever since they shut down, I’ve been looking for...",
+        "rating": 5
+      },
+      {
+        "praise": "Super proud moment for me when my parents recently visited Shoffr's new HQ office in Indiranagar - a...",
+        "rating": 5
+      },
+      {
+        "praise": "Extremely disappointed to see cartel-style bullying tactics employed by Razorpay, Cashfree Payments,...",
+        "rating": 5
+      }
+    ],
+    "positiveFeedbackCategories": [
+      {
+        "name": "Customer Service",
+        "count": 106,
+        "percentage": 75
+      },
+      {
+        "name": "Overall Experience",
+        "count": 102,
+        "percentage": 72
+      },
+      {
+        "name": "App Usability",
+        "count": 97,
+        "percentage": 69
+      },
+      {
+        "name": "Vehicle Condition",
+        "count": 84,
+        "percentage": 60
+      }
+    ],
+    "positiveReviewMetrics": {
+      "avgDriverRating": 3.8,
+      "avgWaitTime": 4.6,
+      "vehiclePraise": 60,
+      "appUXWins": 28,
+      "driverEngagement": 111,
+      "vehicleEngagement": 141,
+      "appEngagement": 74,
+      "totalPositivePosts": 141
+    }
+  },
+  "negativeReviewsSection": {
+    "negativeKeywords": [
+      {
+        "word": "Problem",
+        "count": 13,
+        "color": "bg-red-100 text-red-800"
+      },
+      {
+        "word": "Late",
+        "count": 13,
+        "color": "bg-orange-100 text-orange-800"
+      },
+      {
+        "word": "Price",
+        "count": 13,
+        "color": "bg-pink-100 text-pink-800"
+      },
+      {
+        "word": "Cost",
+        "count": 11,
+        "color": "bg-rose-100 text-rose-800"
+      },
+      {
+        "word": "Bad",
+        "count": 8,
+        "color": "bg-amber-100 text-amber-800"
+      },
+      {
+        "word": "Frustrated",
+        "count": 7,
+        "color": "bg-yellow-100 text-yellow-800"
+      },
+      {
+        "word": "Stuck",
+        "count": 6,
+        "color": "bg-red-100 text-red-800"
+      },
+      {
+        "word": "Poor",
+        "count": 5,
+        "color": "bg-orange-100 text-orange-800"
+      }
+    ],
+    "recentComplaints": [
+      {
+        "issue": "Shoffr turned out to be a most unreliable taxi service. Booked a cab on 4th September, 2.45 am almost a week in advance...",
+        "severity": "high",
+        "time": "35 days ago",
+        "engagement": 5
+      },
+      {
+        "issue": "Had a terrible experience with Shoffr yesterday. Driver was rude and the car was dirty. Will never use again...",
+        "severity": "high",
+        "time": "42 days ago",
+        "engagement": 8
+      },
+      {
+        "issue": "Shoffr's pricing is way too expensive compared to other services. Not worth the premium they charge...",
+        "severity": "medium",
+        "time": "48 days ago",
+        "engagement": 3
+      }
+    ],
+    "negativeReviewMetrics": {
+      "avgDriverRating": 2.9,
+      "avgWaitTime": 7.2,
+      "vehicleIssues": 15,
+      "appIssues": 6,
+      "driverEngagement": 50,
+      "waitEngagement": 70,
+      "vehicleEngagement": 190,
+      "appEngagement": 122,
+      "totalNegativePosts": 86
+    },
+    "negativeProblemAreas": [
+      {
+        "name": "Pricing Issues",
+        "count": 29,
+        "percentage": 34
+      },
+      {
+        "name": "Communication Problems",
+        "count": 14,
+        "percentage": 16
+      },
+      {
+        "name": "Reliability Issues",
+        "count": 10,
+        "percentage": 12
+      },
+      {
+        "name": "Service Quality",
+        "count": 10,
+        "percentage": 12
+      }
+    ]
+  },
+  "queriesSection": {
+    "queryTypes": [
+      {
+        "name": "Service Issues",
+        "value": 32,
+        "color": "#ef4444",
+        "count": 78
+      },
+      {
+        "name": "Booking Problems",
+        "value": 25,
+        "color": "#f59e0b",
+        "count": 61
+      },
+      {
+        "name": "Pricing Questions",
+        "value": 18,
+        "color": "#8b5cf6",
+        "count": 44
+      },
+      {
+        "name": "Driver Complaints",
+        "value": 15,
+        "color": "#dc2626",
+        "count": 37
+      },
+      {
+        "name": "App Issues",
+        "value": 10,
+        "color": "#06b6d4",
+        "count": 24
+      }
+    ],
+    "topQuestions": [
+      "Why was my Shoffr ride cancelled?",
+      "How much does Shoffr cost compared to Uber?",
+      "My Shoffr driver was rude, how do I report this?",
+      "The Shoffr app keeps crashing, what should I do?",
+      "How can I get a refund for my Shoffr ride?"
+    ]
+  },
+  "actionsSection": {
+    "focusAreas": [
+      {
+        "id": "P1",
+        "area": "Service Reliability Crisis",
+        "urgency": "Critical",
+        "impact": "High",
+        "analysis": "46 reliability complaints (53% of negative feedback) - cancellations, delays, service failures",
+        "solves": "~46 customer complaints will be resolved with improved service reliability",
+        "solvesDetail": "Operations team needs immediate service quality improvements",
+        "timeline": "Immediate",
+        "department": "Operations",
+        "severity": "critical"
+      },
+      {
+        "id": "P2",
+        "area": "Driver Quality & Training",
+        "urgency": "High",
+        "impact": "High",
+        "analysis": "35 driver complaints (41% of negative feedback) - rude behavior, unprofessional conduct",
+        "solves": "~35 customer complaints will be resolved with better driver training",
+        "solvesDetail": "Operations team needs comprehensive driver training program",
+        "timeline": "1 week",
+        "department": "Operations",
+        "severity": "high"
+      },
+      {
+        "id": "P3",
+        "area": "App Technical Issues",
+        "urgency": "High",
+        "impact": "Medium",
+        "analysis": "35 app complaints (41% of negative feedback) - crashes, bugs, glitches",
+        "solves": "~35 customer complaints will be resolved with app fixes",
+        "solvesDetail": "Product team needs immediate app stability improvements",
+        "timeline": "2 weeks",
+        "department": "Product",
+        "severity": "high"
+      },
+      {
+        "id": "P4",
+        "area": "Pricing Transparency",
+        "urgency": "Medium",
+        "impact": "Medium",
+        "analysis": "26 pricing complaints (30% of negative feedback) - expensive, unclear pricing",
+        "solves": "~26 customer complaints will be resolved with pricing clarity",
+        "solvesDetail": "Customer Success team needs pricing communication strategy",
+        "timeline": "1 month",
+        "department": "Customer Success",
+        "severity": "medium"
+      },
+      {
+        "id": "P5",
+        "area": "Customer Support Response",
+        "urgency": "Medium",
+        "impact": "Medium",
+        "analysis": "45 support queries need faster response times and better resolution",
+        "solves": "~45 customer queries will be resolved faster with improved support",
+        "solvesDetail": "Customer Success team needs support process optimization",
+        "timeline": "2 weeks",
+        "department": "Customer Success",
+        "severity": "medium"
+      }
+    ]
+  },
+  "topIssuesSection": {
+    "departmentData": [
+      {
+        "id": "customer",
+        "name": "Customer Success",
+        "icon": "MessageSquare",
+        "emoji": "💬",
+        "percentage": 45,
+        "trend": "+12.3%",
+        "trendDirection": "up",
+        "color": "blue",
+        "bgColor": "bg-blue-50/50",
+        "borderColor": "border-blue-200/50",
+        "issues": [
+          {
+            "name": "Negative Feedback",
+            "count": 58,
+            "urgency": "High",
+            "action": "Address service issues"
+          },
+          {
+            "name": "Support Queries",
+            "count": 45,
+            "urgency": "Medium",
+            "action": "Improve response time"
+          },
+          {
+            "name": "Customer Education",
+            "count": 32,
+            "urgency": "Low",
+            "action": "Create help content"
+          }
+        ]
+      },
+      {
+        "id": "product",
+        "name": "Product Team",
+        "icon": "Settings",
+        "emoji": "⚙️",
+        "percentage": 35,
+        "trend": "-5.1%",
+        "trendDirection": "down",
+        "color": "orange",
+        "bgColor": "bg-orange-50/50",
+        "borderColor": "border-orange-200/50",
+        "issues": [
+          {
+            "name": "App Issues",
+            "count": 24,
+            "urgency": "High",
+            "action": "Fix technical problems"
+          },
+          {
+            "name": "Feature Requests",
+            "count": 18,
+            "urgency": "Medium",
+            "action": "Prioritize development"
+          },
+          {
+            "name": "User Experience",
+            "count": 12,
+            "urgency": "Low",
+            "action": "UX improvements"
+          }
+        ]
+      },
+      {
+        "id": "operations",
+        "name": "Operations Team",
+        "icon": "Truck",
+        "emoji": "🚛",
+        "percentage": 20,
+        "trend": "+8.2%",
+        "trendDirection": "up",
+        "color": "green",
+        "bgColor": "bg-green-50/50",
+        "borderColor": "border-green-200/50",
+        "issues": [
+          {
+            "name": "Driver Issues",
+            "count": 37,
+            "urgency": "High",
+            "action": "Driver training needed"
+          },
+          {
+            "name": "Service Quality",
+            "count": 28,
+            "urgency": "Medium",
+            "action": "Quality standards review"
+          },
+          {
+            "name": "Fleet Management",
+            "count": 15,
+            "urgency": "Low",
+            "action": "Vehicle maintenance"
+          }
+        ]
+      }
+    ],
+    "trendData": [
+      {
+        "value": 65
+      },
+      {
+        "value": 58
+      },
+      {
+        "value": 62
+      },
+      {
+        "value": 55
+      },
+      {
+        "value": 48
+      },
+      {
+        "value": 52
+      },
+      {
+        "value": 45
+      }
+    ]
+  },
+  "tabs": {
+    "tabs": [
+      {
+        "id": "overall",
+        "label": "Overall",
+        "icon": "📊",
+        "description": "Complete overview"
+      },
+      {
+        "id": "positive",
+        "label": "Positive",
+        "icon": "👍",
+        "description": "86 posts"
+      },
+      {
+        "id": "negative",
+        "label": "Negative",
+        "icon": "⚠️",
+        "description": "58 posts"
+      },
+      {
+        "id": "queries",
+        "label": "Queries",
+        "icon": "❓",
+        "description": "1206 queries"
+      },
+      {
+        "id": "departments",
+        "label": "Teams",
+        "icon": "👥",
+        "description": "Department view"
+      },
+      {
+        "id": "actions",
+        "label": "Actions",
+        "icon": "🎯",
+        "description": "Action items"
+      }
+    ]
+  },
+  "timePeriodSelector": {
+    "timePeriods": [
+      {
+        "id": "today",
+        "label": "Today",
+        "shortLabel": "Today"
+      },
+      {
+        "id": "yesterday",
+        "label": "Yesterday",
+        "shortLabel": "Yesterday"
+      },
+      {
+        "id": "last7days",
+        "label": "Last 7 Days",
+        "shortLabel": "7D"
+      },
+      {
+        "id": "thisweek",
+        "label": "This Week",
+        "shortLabel": "This Week"
+      },
+      {
+        "id": "lastweek",
+        "label": "Last Week",
+        "shortLabel": "Last Week"
+      },
+      {
+        "id": "thismonth",
+        "label": "This Month",
+        "shortLabel": "This Month"
+      },
+      {
+        "id": "lastmonth",
+        "label": "Last Month",
+        "shortLabel": "Last Month"
+      },
+      {
+        "id": "last3months",
+        "label": "Last 3 Months",
+        "shortLabel": "3M"
+      }
+    ]
+  }
+}
